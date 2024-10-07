@@ -1,6 +1,6 @@
 # NexonCure
 
-NexonCure is a cutting-edge healthcare web application designed to revolutionize online consultations with doctors. Users can easily book and attend appointments via voice, video, or text, ensuring timely and efficient communication with healthcare professionals. Our intuitive interface, built with Next.js and styled with Tailwind CSS and Shadcn UI, provides a seamless user experience.
+NexonCure is a cutting-edge healthcare web application designed to revolutionize online consultations with doctors. Users can easily book and attend appointments via voice, video, or text, ensuring timely and efficient communication with healthcare professionals. Our intuitive interface, built with Next.js and styled with Tailwind CSS & Shadcn UI, provides a seamless user experience.
 
 ## Tech Stack
 
